@@ -1,0 +1,38 @@
+body{
+		margin: 0;
+		padding: 0;
+		background-image: url('C:/Users/Omkar Patange/Desktop/All PhotoShopWork/Resourses_Images/background-2.jpg');
+		background-attachment: fixed;
+		background-position: center;
+		background-size: cover;
+		overflow-x: hidden;
+		
+	}
+
+	body::-webkit-scrollbar{
+			display: none;
+		}	
+		#memory_board{
+			
+			background: rgba(255, 255, 255, 0.6);
+			width: 780px;
+			height: 580px;
+			padding: 10px;
+			margin: 3rem auto;
+			box-shadow: .1rem .5rem .8rem rgba(0, 0, 0, .5);
+		}
+
+		#memory_board > div{
+			background-color: black;
+			border: none;
+			width: 35.5px;
+			height: 35.5px;
+			float: left;
+			margin: 11px;
+			padding: 20px;
+			font-size: 43px;
+			cursor: pointer;
+			text-align: center;
+			box-shadow: .1rem .5rem .8rem rgba(0, 0, 0, .5);
+			transition: .2s;
+		}
