@@ -25,12 +25,12 @@ body{
 		#memory_board > div{
 			background-color: black;
 			border: none;
-			width: 35.5px;
-			height: 35.5px;
+			width: 71px;
+			height: 71px;
 			float: left;
 			margin: 11px;
 			padding: 20px;
-			font-size: 43px;
+			font-size: 62px;
 			cursor: pointer;
 			text-align: center;
 			box-shadow: .1rem .5rem .8rem rgba(0, 0, 0, .5);
