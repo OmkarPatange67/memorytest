@@ -1,7 +1,7 @@
 body{
 		margin: 0;
 		padding: 0;
-		background-image: url('background-2.jpg');
+		background: linear-gradient(to bottom right, #FF7B89, #8A5082);
 		background-attachment: fixed;
 		background-position: center;
 		background-size: cover;
