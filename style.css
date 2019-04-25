@@ -1,7 +1,7 @@
 body{
 		margin: 0;
 		padding: 0;
-		background: linear-gradient(to bottom right, #FF7B89, #8A5082);
+		background: linear-gradient(27deg, #FF7B89, #8A5082);
 		background-attachment: fixed;
 		background-position: center;
 		background-size: cover;
@@ -28,7 +28,7 @@ body{
 		}	
 		#memory_board{
 			
-			background: rgba(255, 255, 255, 0.6);
+			background: linear-gradient(27deg, #8A5082, #FF7B89);
 			width: 800px;
 			height: 540px;
 			padding: 24px;
