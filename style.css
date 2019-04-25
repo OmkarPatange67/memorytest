@@ -14,6 +14,17 @@ body{
 
 	body::-webkit-scrollbar{
 			display: none;
+		}
+		.centerit{
+			text-align: center;
+			margin: 2rem auto;
+		}
+		.set{
+			font-size: 4rem;
+			color: rgba(255, 255, 255, 0.7);
+			text-shadow: .1rem .5rem .8rem rgba(0, 0, 0, 0.5);
+			word-spacing: .8rem;
+			margin-top: -1rem;
 		}	
 		#memory_board{
 			
@@ -21,8 +32,11 @@ body{
 			width: 800px;
 			height: 540px;
 			padding: 24px;
-			margin: 3rem auto;
 			box-shadow: .1rem .5rem .8rem rgba(0, 0, 0, .5);
+			position: absolute;
+			top: 60%;
+			left: 50%;
+			transform: translate(-50%, -50%);
 		}
 
 		#memory_board > div{
