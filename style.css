@@ -15,9 +15,9 @@ body{
 		#memory_board{
 			
 			background: rgba(255, 255, 255, 0.6);
-			width: 780px;
-			height: 580px;
-			padding: 10px;
+			width: 800px;
+			height: 540px;
+			padding: 24px;
 			margin: 3rem auto;
 			box-shadow: .1rem .5rem .8rem rgba(0, 0, 0, .5);
 		}
@@ -28,9 +28,9 @@ body{
 			width: 71px;
 			height: 71px;
 			float: left;
-			margin: 11px;
+			margin: 10px;
 			padding: 20px;
-			font-size: 62px;
+			font-size: 64px;
 			cursor: pointer;
 			text-align: center;
 			box-shadow: .1rem .5rem .8rem rgba(0, 0, 0, .5);
